@@ -1,2 +1,2 @@
 # Meu-projeto
- Meu projeto de App/site de serviços
+ https://pedro-muniz-oliveira.github.io/Projeto-Blog-Escola/
